@@ -5,5 +5,5 @@
 <img align='right' src="https://profile-counter.glitch.me/bytesys/count.svg" width="100">
 
 - Name: ByteSys
-- 网络安全爱好者
+- 在校学生、网络安全爱好者
 - 让世界变得真实一点.
